@@ -30,7 +30,7 @@ My main responsibility is to use PIO to drive the SHT40(Temp and Humidity) senso
 - Toggle the LED Matrix
 - Explore I2C communication between different microcontrollers
 
-### Done Parts
+### Complete Parts
 
 - Drive SHT40 via PIO    
 
