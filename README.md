@@ -21,6 +21,27 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Midpoint Write 
 
 ## Yuchen Wang
 
+### Overview
+
+My main responsibility is to use PIO to drive the SHT40(Temp and Humidity) sensor and be able to calculate the indoor temperature and humidity. In addition, I will also explore with my teammates how to use the I2C protocol to transfer data between the two microcontrollers(QTPY-2040 and Arduino). Finally, I am going to try to drive a 32*16 LED matrix with Arduino, and use a QTPY2040 to control the Arduino via I2C, so that the LED matrix can output the desired messages. Also, I attempt to use a push button that will change what is displayed on the LED matrix screen when I press it, such as if I press it the first time to show the current temperature and humidity in the room, if I press it the second time to show the sensory temperature, and if I press it the third time to show some suggestions for improving the current environment etc.
+
+- Drive SHT40 via PIO
+- Drive LED Matrix with Arduino
+- Toggle the LED Matrix
+- Explore I2C communication between different microcontrollers
+
+### Done Parts
+
+- Drive SHT40 via PIO    
+
+<img width="1082" alt="Screen Shot 2022-12-03 at 01 24 01" src="https://user-images.githubusercontent.com/105755054/205427904-cedf852a-e943-4740-8846-f1cd3dd4b8c6.png">
+![IMG_0128](https://user-images.githubusercontent.com/105755054/205427931-90be43fd-b95c-46dd-99fa-9b7082613c2f.GIF)
+
+### Next Step
+
+- Drive LED Matrix with Arduino
+
+### Diagram
 
 ---
 
