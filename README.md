@@ -14,8 +14,8 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Midpoint Write 
     Tested on:  MacBook Pro (14-inch, 2021), macOS Monterey 12.6
         
     Ryan Zhang
-    email??
-    Tested on:  ??
+    zcy6@seas.upenn.edu
+    Tested on:  Lenovo LEGION R900X, Windows 11
     
 ---
 
@@ -54,3 +54,10 @@ Pressing BOOT PIN is for simulating that people are detected.
 ---
 
 ## Ryan Zhang
+
+### Overview
+
+My main responsibility is connecting LCD screen and QT-PY2040. I am trying to research how to show the specific patterns on the LCD screen based on the input data transfered via I2C protocol. Besides, I will solder the PCB based on the designed circuit in order to have the integral product.
+
+- LCD screen
+- Solder the PCB
