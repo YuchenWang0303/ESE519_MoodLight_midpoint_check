@@ -35,7 +35,10 @@ My main responsibility is to use PIO to drive the SHT40(Temp and Humidity) senso
 - Drive SHT40 via PIO    
 
 <img width="1082" alt="Screen Shot 2022-12-03 at 01 24 01" src="https://user-images.githubusercontent.com/105755054/205427904-cedf852a-e943-4740-8846-f1cd3dd4b8c6.png">
+
 ![IMG_0128](https://user-images.githubusercontent.com/105755054/205427931-90be43fd-b95c-46dd-99fa-9b7082613c2f.GIF)
+
+Pressing BOOT PIN is for simulating that people are detected.
 
 ### Next Step
 
