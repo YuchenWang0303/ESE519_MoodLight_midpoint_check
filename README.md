@@ -1,7 +1,7 @@
 # ESE519_MoodLight_midpoint_check
 University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Midpoint Write up
 
-## YuchenWang Worked with KatrinaJi, Ryan Zhang
+## YuchenWang Worked with KatrinaJi, and Ryan Zhang
 
 ---
 
