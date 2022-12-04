@@ -6,7 +6,7 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Midpoint Write 
 ---
 
     Yuchen Wang
-    wangyuchen0303@gmail.com
+    wangybv@seas.upenn.edu
     Tested on:  MacBook Pro (14-inch, 2021), macOS Monterey 12.6
     
     Katrina Ji
@@ -40,11 +40,17 @@ My main responsibility is to use PIO to drive the SHT40(Temp and Humidity) senso
 
 Pressing BOOT PIN is for simulating that people are detected.
 
-### Next Step
-
 - Drive LED Matrix with Arduino
 
-### Diagram
+![IMG_0138](https://user-images.githubusercontent.com/105755054/205474897-44317ec7-11a4-4ce1-8099-91ec8ab0e3a2.GIF)
+
+### Next Step
+
+- Connecting Arduino and QTPY2040 via I2C protocal 
+
+### Mind Guide Diagram
+
+![WechatIMG7533](https://user-images.githubusercontent.com/105755054/205474876-253712ba-c986-43c4-bd62-c45cd8241121.jpeg)
 
 ---
 
