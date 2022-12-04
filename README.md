@@ -18,7 +18,14 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Midpoint Write 
     Tested on:  Lenovo LEGION R900X, Windows 11
     
 ---
+# Main Components List:
 
+1. 32*16 LED Matrix
+2. Arduino Uno Rev3
+3. QTPY-2040 $\times 2$ 
+4. Push button $\times 2$ 
+
+---
 ## Yuchen Wang
 
 ### Overview
