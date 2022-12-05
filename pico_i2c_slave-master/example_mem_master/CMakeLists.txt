@@ -1,0 +1,10 @@
+add_executable(example_mem_master example_mem_master.c)
+
+pico_enable_stdio_uart(example_mem_master 1)
+pico_enable_stdio_usb(example_mem_master 1)
+
+pico_add_extra_outputs(example_mem_master)
+
+target_compile_options(example_mem_master PRIVATE -Wall)
+
+target_link_libraries(example_mem_master i2c_slave pico_stdlib)
